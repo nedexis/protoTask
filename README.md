@@ -1,4 +1,4 @@
 protoTask
 =========
 
-Simple tasker for C lang
+Simple tasker, C lang
